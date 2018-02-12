@@ -1,5 +1,5 @@
-###### Basic Option Pricing Simulator in Python
-Part of an option pricing simulator game from [Practical Options trading & Straegies](https://www.investacademy.com/courses/options/options-trading) course by [Invest Academy](https://www.investacademy.com).
+## Basic Option Pricing Simulator in Python
+Part of an option pricing simulator game from the [Practical Options trading & Straegies](https://www.investacademy.com/courses/options/options-trading) course by [Invest Academy](https://www.investacademy.com).
 
 
 ### Features
